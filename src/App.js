@@ -1,7 +1,8 @@
 import "./App.css";
+import CustomRoutes from "./customRoutes/CustomRoutes";
 
 function App() {
-  return <>Hello</>;
+  return <CustomRoutes />;
 }
 
 export default App;
